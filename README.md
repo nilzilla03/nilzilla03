@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nilay!
-- 👀 I’m interested in the broad domains of SLAM in robotics, traditional image processing, computer vision, and computer graphics.
+- 👀 I’m interested in the broad domains of novel view synthesis, visual SLAM, and image processing.
 - 🌱 I’m currently learning C++ and PyTorch.
 
 <!---
